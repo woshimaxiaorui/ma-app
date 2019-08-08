@@ -1,0 +1,15 @@
+html,body,#root{
+  height: 100%;
+}
+.login-bg{
+  overflow: hidden;
+  height: 100%;
+  margin: 20px;
+  background-image: url(../../common/imgs/bg.png);
+
+  .login-card{
+    width: 300px;
+    float: right;
+    margin: 200px 100px 0 0;
+  }
+}
